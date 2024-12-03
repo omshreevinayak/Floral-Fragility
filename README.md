@@ -22,7 +22,7 @@ Welcome to the Floral Fragility a pottery website, an elegant and interactive we
 - **Responsive Design:** 📱 Ensuring the website looks great on all devices.
 
 ## 🚀 Demo
-You can view the live demo of the website [here](#https://omshreevinayak.github.io/Floral-Fragility/).
+You can view the live demo of the website [here](https://omshreevinayak.github.io/Floral-Fragility/).
 
 ## 🛠️ Technologies Used
 - **Frontend Framework:** React ⚛️
