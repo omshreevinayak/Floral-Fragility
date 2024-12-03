@@ -2,7 +2,7 @@
 
 ![Thumbnail](./public/thumbnail.jpg)
 
-## Introduction
+## ✨ Introduction
 Welcome to the Floral Fragility a pottery website, an elegant and interactive website showcasing unique pottery designs and high-quality materials. This project demonstrates my skills in frontend development, incorporating advanced animations and responsive design to create an engaging user experience.
 
 ## Table of Contents
